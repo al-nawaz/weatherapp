@@ -1,0 +1,19 @@
+.main{
+    background-color: teal;
+    color: white;
+    border: 2px solid cyan;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    margin: 10% 30% ;
+}
+
+.temp{
+  /* text-align: center; */
+}
+
+.misc{
+    /* text-align: center; */
+}
